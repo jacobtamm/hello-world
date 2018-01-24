@@ -1,2 +1,6 @@
 # hello-world
-this is a test
+Hello puny earthlings,
+
+Some things about me...
+
+I have a passion for robots, mechanical engineering, and code
